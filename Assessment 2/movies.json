@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "category": "Action",
+        "year": "1977",
+        "watched": true
+    },
+    {
+        "title": "Fun with Dick and Jane",
+        "category": "Comedy",
+        "year": "2005",
+        "watched": false
+    },
+    {
+        "title": "Citizen Kane",
+        "category": "Drama",
+        "year": "1941",
+        "watched": false
+    },
+    {
+        "title": "The Fugitive",
+        "category": "Drama",
+        "year": "1993",
+        "watched": true
+    },
+    {
+        "title": "Persian-Roman War",
+        "category": "Action",
+        "year": "557",
+        "watched": false
+    }
+]
